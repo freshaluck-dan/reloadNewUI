@@ -1,0 +1,1 @@
+{"version":3,"pages404":true,"basePath":"/reloadng","redirects":[{"source":"/reloadng/","destination":"/reloadng","basePath":false,"internal":true,"statusCode":308,"regex":"^/reloadng/$"},{"source":"/:path+/","destination":"/:path+","internal":true,"statusCode":308,"regex":"^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"}],"headers":[],"dynamicRoutes":[],"dataRoutes":[],"rewrites":[]}
